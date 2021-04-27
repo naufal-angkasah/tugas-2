@@ -1,2 +1,2 @@
-# tugas-2
+# tugas-2 Aplikasi mesin kasir
 cli
